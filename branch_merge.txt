@@ -1,0 +1,9 @@
+for creating branch 
+
+1git branch [branchname]
+
+2.git checkout [branchname]
+
+3.git merge [branch name except master] when you in master branch then merge new branch
+
+4.git checkout -b [branchname]

@@ -1,0 +1,4 @@
+if we wanted to do a perticular commit or 
+by mistake we are commiting on diff.branch than master then only we use cherry pick
+
+1.git cherry-pick [commited id]

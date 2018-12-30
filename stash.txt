@@ -1,0 +1,17 @@
+if we are working on any feature and wanted to work on another feature urgently then we have to use stash
+
+we are storing our work in temporary location.
+
+1.git stash save "anything"
+
+2.git stash list
+
+3.git stash apply {uniqueid}
+
+4.git stash drop {uniqueid}
+
+5.git stash pop
+
+6.git stash clean
+
+7.git stash -p ---->if we wanted to stash perticular chunk of code then use

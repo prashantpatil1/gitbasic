@@ -1,0 +1,5 @@
+1.git config --global.alias co checkout
+
+2.git config --global.alias br branch
+
+3.git config --global.alias st status
